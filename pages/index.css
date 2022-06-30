@@ -8,6 +8,7 @@
 @import url(../blocks/header/header__square-pic.css);
 @import url(../blocks/header/header__subtitle.css);
 @import url(../blocks/header/header__title.css);
+@import url(../blocks/logo/logo_place_header.css);
 
 /*description*/
 @import url(../blocks/description/description.css);
